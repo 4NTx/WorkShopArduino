@@ -1,12 +1,12 @@
 # Projeto Final: Blockino
-
+# Projeto desatualizado
 ## Descrição
 
 Este projeto é uma versão do Blockino que permite aos estudantes programar um Arduino com vários sensores e atuadores já conectados, sem a necessidade de montagem física dos componentes eletrônicos. A ideia é facilitar o aprendizado de programação e interação com dispositivos de hardware, fornecendo uma plataforma com componentes pré-conectados.
 
 ## WokWi
 
-- https://wokwi.com/projects/398096738638480385
+- https://wokwi.com/projects/398704619127480321
 - Projeto Final.zip
 - ![projeto](https://i.imgur.com/gX9QieJ.png)
 
